@@ -1,5 +1,5 @@
 FROM node:latest
-COPY . /app2
-WORKDIR /app2
+COPY . /app3
+WORKDIR /app3
 CMD node app.js
 
